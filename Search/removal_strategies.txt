@@ -1,0 +1,30 @@
+
+------------------------------------------
+Sammlung aller Filter-Methoden:
+------------------------------------------
+
+[+] Subspace reconstruction
+[+] Wavelet Packet Decomposition
+[+] General linear model (GLM) -> review not included but for reference see 647
+
+[+] Independant Component Analysis (ICA)
+   -> examples: extended Infomax, FastICA and TDSEP (see 272)
+
+[+] “multichannel EEG thresholding by similarity” (METS) -> 171
+[+] “semblance-based ERP window selection” (SEWS) -> 171
+
+[+] "noise-assisted multivariate empirical mode decomposition (NA-MEMD)" -> 228
+[+] "sample entropy (SampEn)" -> 228
+
+[+] "Lomb-Scargle periodogram (LSP)" -> 240
+[+] "deep belief network (DBN)" -> 240
+
+[+] "SASICA algorithm" -> 241
+
+[+] Canonical Correlation Analysis (CCA) -> 281
+[+] Gaussian Mixture Model (GMM) -> 281
+
+[+] Empirical Mode Decomposition (EEMD) -> 347
+[+] Wavelet Transform (WT) -> 347
+[+] CCA based on Gaussian elimination method -> 347
+
